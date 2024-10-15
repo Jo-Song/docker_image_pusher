@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 nextcloud
 vaultwarden/server
+p3terx/aria2-pro
